@@ -1,0 +1,64 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+
+    background-color: #77acf1;
+    text-align: center;
+    border: 2px soild tomato;
+}
+
+.item li{
+    margin: 10px;
+    padding: 15px;
+    list-style: none;
+}
+button{
+    border-radius: 4px;
+    
+}
+div .nav {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+input{
+    
+    padding: 10px;
+    width: auto;
+    border-radius: 15px;
+    box-shadow: 0px 0px 5px 0.3px rgba(0,0,0,0.3);
+    border: none;
+}
+.nav button{
+    padding: 8px;
+}
+
+
+.heading h1 {
+    margin-top: 20px;
+}
+
+a button {
+    background-color: rgb(25, 160, 238);
+    border: 2px solid;
+    border-radius: 4px;
+    font-size: 30px;
+    color: aliceblue;
+}
+
+a button:hover {
+    background-color: rgb(3, 46, 187);
+    font-size: 20px;
+}
+
+.btn {
+    background-color: rgb(230, 127, 59);
+}
+
+div ul {
+    margin: 20px;
+    list-style: none;
+}
